@@ -1,5 +1,5 @@
 # SQL
-The capstone contains the Mutual Funds Data Anaysis using SQL.
+### The capstone contains the Mutual Funds Data Anaysis using SQL.
 •	Analyzed ₹260M in investments with an average investment size of ₹520K over 15.76 months.
 •	Balanced the portfolio across Equity, Debt, Index, and Balanced Funds (~25% each).
 •	High-risk funds delivered an ROI of 162.28%.
@@ -12,7 +12,8 @@ The capstone contains the Mutual Funds Data Anaysis using SQL.
 
 
 
-Zomato Contains: This repository contains a collection of SQL scripts designed to analyze and manage a food delivery platform similar to Zomato. The database includes a variety of tables that cover key areas such as orders, deliveries, restaurants, menus, users, payments, and customer ratings. You'll also find queries that perform detailed data analysis, including calculating platform earnings by taking into account factors like order quantities, discounts, and delivery charges, and the data is gnerated synthetically.
+### Zomato Contains: 
+This repository contains a collection of SQL scripts designed to analyze and manage a food delivery platform similar to Zomato. The database includes a variety of tables that cover key areas such as orders, deliveries, restaurants, menus, users, payments, and customer ratings. You'll also find queries that perform detailed data analysis, including calculating platform earnings by taking into account factors like order quantities, discounts, and delivery charges, and the data is gnerated synthetically.
 Key Features:
 
 Order Management: Easily track the details of customer orders, delivery schedules, and related restaurant information.
